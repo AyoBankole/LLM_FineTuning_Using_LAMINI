@@ -1,0 +1,9 @@
+Lamini
+datasets
+transformers
+numpy
+pandas
+ipykernel
+lamini
+torch
+python-dotenv
